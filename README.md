@@ -29,7 +29,7 @@ Welcome to Snapgram, your go-to clean and serverless social media site built wit
 ## How to Use
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/your-username/snapgram.git
+git clone https://github.com/amanpathra/snapgram.git
 ```
 2. Navigate to the project directory:
 ```
