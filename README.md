@@ -40,13 +40,13 @@ cd snapgram
 npm install
 ```
 4. Configure Appwrite:
-  1. Create an account on Appwrite.
-  2. Set up a new App and note the API endpoint and project ID.
-  3. Update the .env file with your Appwrite configuration:
-  ```
-  VITE_APPWRITE_ENDPOINT=your-appwrite-endpoint
-  VITE_APPWRITE_PROJECT_ID=your-appwrite-project-id
-  ```
+    1. Create an account on Appwrite.
+    2. Set up a new App and note the API endpoint and project ID.
+    3. Update the .env file with your Appwrite configuration:
+    ```
+    VITE_APPWRITE_ENDPOINT=your-appwrite-endpoint
+    VITE_APPWRITE_PROJECT_ID=your-appwrite-project-id
+    ```
 5. Start the application:
 ```
 npm run dev
